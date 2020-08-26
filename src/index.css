@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap");
+body {
+    margin: 0;
+    font-family: "Mulish", sans-serif;
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+.navbar-brand {
+    font-size: 90rem;
+    color: #565387;
+}
+
+.navbar a {
+    font-size: 1.3rem;
+    text-transform: capitalize;
+}
